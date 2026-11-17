@@ -17,7 +17,7 @@ Its development focuses on building an integrated software environment where pro
 
 The project demonstrates practical experience in full-stack software engineering, application architecture, API development, database integration, AI integration, and intelligent application functionality.
 
-**Live Application:** https://leistern-frontend.onrender.com
+**Live Application:** [LEITSTERN – Live Demo](https://leistern-frontend.onrender.com)
 
 ---
 
@@ -239,7 +239,7 @@ The application is deployed and accessible online.
 
 **Live Application:**
 
-https://leistern-frontend.onrender.com
+[Open LEITSTERN](https://leistern-frontend.onrender.com)
 
 NAVIS functionality is currently undergoing further development and stabilisation.
 
@@ -259,7 +259,7 @@ Professional experience in frontend development, backend engineering, Python, da
 
 **Email:** vishaltvger10@gmail.com
 
-**GitHub:** https://github.com/Vishal-dev-10
+**GitHub:** [Vishal-dev-10](https://github.com/Vishal-dev-10)
 
 ---
 
