@@ -341,6 +341,11 @@ For further details:
 - **[Engineering Case Studies](docs/engineering-case-studies.md)**
 
 ---
+## Technical Work Sample – CHM Application
+
+A dedicated technical overview prepared for the Student Research Assistant – Full-Stack Developer position at the Center for Humans and Machines.
+
+**[View LEITSTERN Technical Work Sample (PDF)](CHM_Technical_Work_Sample.pdf)**
 
 ## 10. Engineering Case Studies and Technical Documentation
 
