@@ -33,7 +33,7 @@ The project demonstrates practical experience in full-stack software engineering
 | AI Integration | OpenAI API, n8n |
 | Data Visualisation | Chart.js, Recharts |
 | Version Control | Git, GitHub |
-| DevOps | Azure DevOps, CI/CD |
+| Project Management & Deployment | Azure DevOps Boards, GitHub, Render |
 
 ---
 
@@ -226,7 +226,7 @@ Development activities include:
 - GitHub repository management.
 - Agile development methodologies.
 - Azure DevOps Boards.
-- CI/CD workflows.
+- Deployment configuration and troubleshooting.
 - Iterative feature development.
 - Debugging and application maintenance.
 - Technical documentation.
