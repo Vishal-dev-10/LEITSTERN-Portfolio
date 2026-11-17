@@ -1,9 +1,9 @@
 # LEITSTERN
 ### AI-Powered Full-Stack SaaS Platform
 
-**An independently developed software platform combining full-stack engineering, cloud-based data management, and AI-powered decision support.**
+**An independently developed software platform combining full-stack engineering, cloud-based data management, intelligent automation, and AI-powered decision support.**
 
-**Technologies:** React.js · Node.js · Express.js · Firebase · JavaScript · AI Integration
+**Technologies:** React.js · Node.js · Express.js · Firebase · JavaScript · OpenAI API · n8n
 
 ---
 
@@ -13,7 +13,9 @@ LEITSTERN is an AI-powered SaaS platform designed to help organisations manage p
 
 The platform combines modern frontend and backend technologies with cloud-based data management, application analytics, and AI integration.
 
-The project demonstrates practical experience in full-stack software engineering, application architecture, API development, database integration, and intelligent application functionality.
+Its development focuses on building an integrated software environment where project information, operational metrics, and intelligent recommendations work together to support informed decision-making.
+
+The project demonstrates practical experience in full-stack software engineering, application architecture, API development, database integration, AI integration, and intelligent application functionality.
 
 **Live Application:** https://leistern-frontend.onrender.com
 
@@ -37,7 +39,7 @@ The project demonstrates practical experience in full-stack software engineering
 
 ## 3. System Architecture
 
-LEITSTERN follows a full-stack architecture connecting the user interface, backend services, cloud database, and AI integration layer.
+LEITSTERN follows a full-stack application architecture connecting the user interface, backend services, cloud database, and AI integration layer.
 
 ### High-Level Architecture
 
@@ -64,6 +66,12 @@ LEITSTERN follows a full-stack architecture connecting the user interface, backe
     APPLICATION DATA
 ```
 
+The architecture separates frontend responsibilities, backend application logic, cloud-based data management, and AI-powered functionality.
+
+For a more detailed explanation, see:
+
+**[System Architecture Documentation](docs/architecture.md)**
+
 ---
 
 ## 4. NAVIS – AI-Powered Decision Support Engine
@@ -84,7 +92,13 @@ NAVIS connects AI-generated insights with application functionality, enabling us
 
 The component explores how AI can support human decision-making by translating contextual information into actionable insights.
 
-**Development Status:** NAVIS is undergoing further development and stabilisation.
+### Human-AI Interaction
+
+NAVIS provides an application environment in which users can interact with AI-generated insights, review recommendations, and initiate structured actions.
+
+This creates an interesting connection to human-AI collaboration and intelligent decision-support systems.
+
+**Development Status:** NAVIS is undergoing further development and stabilisation. Some functionalities may not currently be available in the live deployment.
 
 ---
 
@@ -100,10 +114,71 @@ The platform incorporates several functional modules:
 - Cost optimisation.
 - AI-assisted recommendations.
 - Organisation-based project management.
+- Reporting and performance monitoring.
 
 ---
 
-## 6. Software Engineering Contributions
+## 6. Application Screenshots & Visual Showcase
+
+The following screenshots showcase the application interface, dashboard functionality, project management modules, team management, reporting capabilities, and NAVIS interface.
+
+### 6.1 Main Dashboard
+
+The central dashboard provides an overview of project performance, key performance indicators, and operational information.
+
+![LEITSTERN Main Dashboard](screenshots/dashboard.png)
+
+### 6.2 Dashboard Analytics
+
+Visual representation of project metrics, performance indicators, and analytical information.
+
+![LEITSTERN Dashboard Analytics](screenshots/dashboard-analytics.png)
+
+### 6.3 Dashboard Overview
+
+An additional view demonstrating the dashboard layout and application interface.
+
+![LEITSTERN Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 6.4 Project Management
+
+Project-level information and project management functionalities.
+
+![LEITSTERN Project Management](screenshots/project-management.png)
+
+### 6.5 Team Management
+
+Team-related information and resource management interfaces.
+
+![LEITSTERN Team Management](screenshots/team-management.png)
+
+### 6.6 Reports and Analytics
+
+Reporting and analytical views within the application.
+
+![LEITSTERN Reports](screenshots/reports.png)
+
+### 6.7 NAVIS – AI Interface
+
+Interface preview of NAVIS, the AI-powered decision-support component within LEITSTERN.
+
+![NAVIS AI Interface](screenshots/navis-ai-preview.png)
+
+*Note: NAVIS is currently undergoing further development and stabilisation. The screenshot demonstrates its interface and intended functionality rather than guaranteeing that all features are operational.*
+
+---
+
+## 7. Dashboard Comparison Preview
+
+The following comparison preview demonstrates the dashboard design and visual presentation of LEITSTERN.
+
+It provides a visual overview of the dashboard interface and its development.
+
+![LEITSTERN Dashboard Comparison Preview](screenshots/comparison-preview.png)
+
+---
+
+## 8. Software Engineering Contributions
 
 The project involves practical implementation across multiple areas of software engineering.
 
@@ -113,6 +188,7 @@ The project involves practical implementation across multiple areas of software 
 - Implemented reusable UI components.
 - Built interactive dashboard visualisations.
 - Integrated frontend components with backend services.
+- Developed application views for project, team, and reporting functionalities.
 
 ### Backend Engineering
 
@@ -120,6 +196,7 @@ The project involves practical implementation across multiple areas of software 
 - Implemented RESTful APIs.
 - Developed application logic and data-processing functionality.
 - Integrated backend services with frontend components.
+- Implemented application workflows and structured actions.
 
 ### Database and Authentication
 
@@ -127,6 +204,7 @@ The project involves practical implementation across multiple areas of software 
 - Implemented Cloud Firestore data management.
 - Developed organisation-based application data separation.
 - Implemented user authentication and access management.
+- Integrated cloud-based data storage with application services.
 
 ### AI Integration
 
@@ -134,10 +212,11 @@ The project involves practical implementation across multiple areas of software 
 - Developed NAVIS decision-support functionality.
 - Implemented structured AI-generated actions and recommendations.
 - Connected intelligent suggestions with application operations.
+- Explored AI-assisted decision-making through interactive application functionality.
 
 ---
 
-## 7. Development Approach
+## 9. Development Approach
 
 LEITSTERN is independently developed and managed using structured software engineering practices.
 
@@ -154,11 +233,13 @@ Development activities include:
 
 ---
 
-## 8. Live Demonstration
+## 10. Live Demonstration
 
 The application is deployed and accessible online.
 
-**Live Application:** https://leistern-frontend.onrender.com
+**Live Application:**
+
+https://leistern-frontend.onrender.com
 
 NAVIS functionality is currently undergoing further development and stabilisation.
 
@@ -166,7 +247,7 @@ A guided demonstration of the application, technical architecture, implemented f
 
 ---
 
-## 9. About the Developer
+## 11. About the Developer
 
 **Vishal Thaikkattil Vidyadharan**
 
@@ -178,8 +259,8 @@ Professional experience in frontend development, backend engineering, Python, da
 
 **Email:** vishaltvger10@gmail.com
 
-**GitHub:** Vishal-dev-10
+**GitHub:** https://github.com/Vishal-dev-10
 
 ---
 
-*LEITSTERN is an independently developed software engineering project demonstrating practical experience in full-stack application development, AI integration, and data-driven decision-support systems.*
+*LEITSTERN is an independently developed software engineering project demonstrating practical experience in full-stack application development, AI integration, cloud-based data management, and data-driven decision-support systems.*
